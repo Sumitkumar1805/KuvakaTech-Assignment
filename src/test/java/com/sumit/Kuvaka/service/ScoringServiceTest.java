@@ -1,8 +1,7 @@
 package com.sumit.Kuvaka.service;
 
 import static org.testng.Assert.assertEquals;
-
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import com.sumit.Kuvaka.model.Lead;
 import com.sumit.Kuvaka.model.Offer;
